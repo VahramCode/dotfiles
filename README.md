@@ -1,5 +1,8 @@
 # My Arch Linux Dotfiles (KDE Plasma on Wayland)
 
+---
+<img width="1920" height="1080" alt="Screenshot_20260610_031634" src="https://github.com/user-attachments/assets/c9c4dcd1-de2b-4d97-9648-fb6ada9f9da4" />
+
 Welcome to my personal dotfiles repository! This repo contains my complete KDE Plasma desktop configuration, including themes, icons, widgets, and wallpapers, all packed and managed using **Konsave**.
 
 ## 💻 System Specs
@@ -47,4 +50,20 @@ konsave -a my_plasma_config
 
 > **Note:** After activating the profile, log out and log back into your session for all changes (especially Wayland and shell components) to take effect perfectly.
 ---
+## for more fun , you can install **ponysay** and **fastfetch** and 
+```bash
+sudo pacman -S ponysay
+sudo pacman -S fastfetch
+```
+---
+## To enable the pony greeting upon every terminal session login , **Do** this :
+```bash
+nano ~/.config/fish/config.fish
+```
+Add this code to the last line :
+```bash
+PYTHONWARNINGS=ignore ponysay "YOUR TEXT"
+```
+---
+
 *Maintained by [RedHood](https://github.com/VahramCode)*
