@@ -73,5 +73,8 @@ PYTHONWARNINGS=ignore ponysay "YOUR TEXT"
 [4k Wallpapers]( https://4kwallpapers.com/ )
 >**Note:** you can searching for raiden shogun :)
 ---
+[FishShell](https://fishshell.com/)
+>**Note:** you can Read about FishShell :)
+---
 
 *Maintained by [RedHood](https://github.com/VahramCode)*
