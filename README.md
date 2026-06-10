@@ -35,8 +35,11 @@ Clone this repository, navigate into it, and import the `.knsv` configuration fi
 ```bash
 # Clone the repository
 git clone https://github.com/VahramCode/dotfiles.git
+# go to dotfiles directory
 cd dotfiles
+# lfs install
 git lfs install
+# lfs pull
 git lfs pull
 # Import the plasma profile
 konsave -i my_plasma_config.knsv
