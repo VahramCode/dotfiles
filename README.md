@@ -76,5 +76,8 @@ PYTHONWARNINGS=ignore ponysay "YOUR TEXT"
 [FishShell](https://fishshell.com/)
 >**Note:** you can Read about FishShell :)
 ---
+[ArchLinux](https://archlinux.org/)
+>**Note:** you can Read about ArchLinux :)
+---
 
 *Maintained by [RedHood](https://github.com/VahramCode)*
