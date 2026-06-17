@@ -1,7 +1,8 @@
 # My Arch Linux Dotfiles (KDE Plasma on Wayland)
 
 ---
-<img width="1920" height="1080" alt="Screenshot_20260610_155628" src="https://github.com/user-attachments/assets/691e9aff-e563-4382-ae32-bd10f9fa5ee8" />
+<img width="1920" height="1080" alt="Screenshot_20260617_183312" src="https://github.com/user-attachments/assets/d765c0ac-1894-4401-afc5-93aa88615a56" />
+
 
 
 Welcome to my personal dotfiles repository! This repo contains my complete KDE Plasma desktop configuration, including themes, icons, widgets, and wallpapers, all packed and managed using **Konsave**.
