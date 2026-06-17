@@ -35,7 +35,7 @@ yay -S konsave
 Clone this repository, navigate into it, and import the `.knsv` configuration file:
 ```bash
 # Clone the repository
-git clone https://github.com/VahramCode/dotfiles.git
+GIT_LFS_SKIP_SMUDGE=1 git clone https://github.com/VahramCode/dotfiles.git
 # go to dotfiles directory
 cd dotfiles
 # lfs install
@@ -43,13 +43,13 @@ git lfs install
 # lfs pull
 git lfs pull
 # Import the plasma profile
-konsave -i my_plasma_config.knsv
+konsave -i my_new_config.knsv
 ```
 
 ### 3. Activate the Profile
 Now, apply the imported profile to your desktop:
 ```bash
-konsave -a my_plasma_config
+konsave -a my_new_config
 ```
 
 > **Note:** After activating the profile, log out and log back into your session for all changes (especially Wayland and shell components) to take effect perfectly.
